@@ -27,7 +27,7 @@
 /**
  *  Primitive Datatypes
         - There are 8 primitive datatypes in java
-            1. boolean  → stores either true or false [default] && takes only 1 byte of memory
+            1. boolean  → stores either true or false [default] && takes only 1 bit of memory
             2. char     → stores a single character && takes 2 bytes of memory
             3. int      → [ default ] stores only Integers && takes 4 bytes of memory
             4. byte     → stores integers ranging from -128 to 127. Since it takes only 1 byte of memory
