@@ -28,5 +28,7 @@ public class BasicProblems {
          *      → whenever we use float, use suffix f for each value → 3.14f
          *      → Whenever we use long, use suffix L for each value → 5264L
         */
+
+        scan.close();
     }
 }

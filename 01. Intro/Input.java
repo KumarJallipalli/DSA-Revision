@@ -39,5 +39,7 @@ public class Input {
          * - Now we make an Object out of the `Scanner` class   -> Scanner scan = new Scanner(System.in);
          * - This Object will have methods which helps us to take input from user   -> scan.nextInt();
         */
+
+        scan.close();
     }
 }

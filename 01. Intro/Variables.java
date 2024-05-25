@@ -38,6 +38,7 @@
 */
 
 public class Variables {
+    @SuppressWarnings("unused")
     public static void main(String[] args) {
         /**
          *  How to declare a varibale..?
@@ -61,6 +62,6 @@ public class Variables {
 /**
  *  What happens when we define a variable..?
  *      1. So If we define a variable, Java will allocate some memory in RAM to the defined variable
- *      2. Java will name that memory location with variable name & It will have some address to for future reference
+ *      2. Java will name that memory block with variable name & It will have some address to for future reference
  *      3. Finally, java stores the value of variable in that memory
 */
