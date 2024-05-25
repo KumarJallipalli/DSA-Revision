@@ -55,5 +55,13 @@ public class Operators {
 
         System.out.println(a);
         System.out.println(b--);
+
+        // // We cannot do this
+        // int a = 10;
+        // int (--b) = --a;
+                
+        // // We cannot do this
+        // int a = 10;
+        // int --b = --a;
     }
 }
